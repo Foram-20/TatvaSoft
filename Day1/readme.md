@@ -7,4 +7,4 @@
 - Applied `JOINs`, `GROUP BY`, `HAVING`, and `Subqueries`
 - Ran all queries in **pgAdmin** using SQL files
 
-**SQL File**: [basic_queries_day1.sql](./Day1/basic_queries_day1.sql)
+

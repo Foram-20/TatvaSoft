@@ -1,2 +1,0 @@
-# TatvaSoft
-Summer internship tasks

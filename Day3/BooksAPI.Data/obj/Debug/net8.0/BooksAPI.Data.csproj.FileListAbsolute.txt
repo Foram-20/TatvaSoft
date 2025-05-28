@@ -1,0 +1,11 @@
+D:\BooksAPI\BooksAPI.Data\bin\Debug\net8.0\BooksAPI.Data.deps.json
+D:\BooksAPI\BooksAPI.Data\bin\Debug\net8.0\BooksAPI.Data.dll
+D:\BooksAPI\BooksAPI.Data\bin\Debug\net8.0\BooksAPI.Data.pdb
+D:\BooksAPI\BooksAPI.Data\obj\Debug\net8.0\BooksAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\BooksAPI\BooksAPI.Data\obj\Debug\net8.0\BooksAPI.Data.AssemblyInfoInputs.cache
+D:\BooksAPI\BooksAPI.Data\obj\Debug\net8.0\BooksAPI.Data.AssemblyInfo.cs
+D:\BooksAPI\BooksAPI.Data\obj\Debug\net8.0\BooksAPI.Data.csproj.CoreCompileInputs.cache
+D:\BooksAPI\BooksAPI.Data\obj\Debug\net8.0\BooksAPI.Data.dll
+D:\BooksAPI\BooksAPI.Data\obj\Debug\net8.0\refint\BooksAPI.Data.dll
+D:\BooksAPI\BooksAPI.Data\obj\Debug\net8.0\BooksAPI.Data.pdb
+D:\BooksAPI\BooksAPI.Data\obj\Debug\net8.0\ref\BooksAPI.Data.dll

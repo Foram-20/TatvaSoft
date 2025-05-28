@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BooksAPI.Data/1.0.0": {
+        "runtime": {
+          "BooksAPI.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BooksAPI.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

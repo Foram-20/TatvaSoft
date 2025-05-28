@@ -1,0 +1,15 @@
+D:\BooksAPI\BooksAPI.Services\bin\Debug\net8.0\BooksAPI.Services.deps.json
+D:\BooksAPI\BooksAPI.Services\bin\Debug\net8.0\BooksAPI.Services.dll
+D:\BooksAPI\BooksAPI.Services\bin\Debug\net8.0\BooksAPI.Services.pdb
+D:\BooksAPI\BooksAPI.Services\bin\Debug\net8.0\BooksAPI.Data.dll
+D:\BooksAPI\BooksAPI.Services\bin\Debug\net8.0\BooksAPI.Data.pdb
+D:\BooksAPI\BooksAPI.Services\obj\Debug\net8.0\BooksAPI.Services.csproj.AssemblyReference.cache
+D:\BooksAPI\BooksAPI.Services\obj\Debug\net8.0\BooksAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\BooksAPI\BooksAPI.Services\obj\Debug\net8.0\BooksAPI.Services.AssemblyInfoInputs.cache
+D:\BooksAPI\BooksAPI.Services\obj\Debug\net8.0\BooksAPI.Services.AssemblyInfo.cs
+D:\BooksAPI\BooksAPI.Services\obj\Debug\net8.0\BooksAPI.Services.csproj.CoreCompileInputs.cache
+D:\BooksAPI\BooksAPI.Services\obj\Debug\net8.0\BooksAPI.1E531D01.Up2Date
+D:\BooksAPI\BooksAPI.Services\obj\Debug\net8.0\BooksAPI.Services.dll
+D:\BooksAPI\BooksAPI.Services\obj\Debug\net8.0\refint\BooksAPI.Services.dll
+D:\BooksAPI\BooksAPI.Services\obj\Debug\net8.0\BooksAPI.Services.pdb
+D:\BooksAPI\BooksAPI.Services\obj\Debug\net8.0\ref\BooksAPI.Services.dll
